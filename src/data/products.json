@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "name": "Camiseta de algodón",
+        "description": "Camiseta de algodón suave y cómoda",
+        "price": 19.99,
+        "category": "Ropa",
+        "inStock": true,
+        "imageURL": "https://pstyletienda.com/wp-content/uploads/2019/11/Camiseta-Hombre-cuello-redondo-basica-Gris-Jaspe-algodon-peinado-Gildan-64000-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pantalón de mezclilla",
+        "description": "Pantalón de mezclilla de corte clásico",
+        "price": 39.99,
+        "category": "Ropa",
+        "inStock": true,
+        "imageURL": "https://milano.com/cdn/shop/products/1631-531611_Pantalon_Mezclilla_Caballero_Milano_A_1024x1024.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Zapatillas deportivas",
+        "description": "Zapatillas deportivas con amortiguación",
+        "price": 59.99,
+        "category": "Calzado",
+        "inStock": true,
+        "imageURL": "https://www.oleoshop.com/imagenes/porreferencia?identidad=b0e55318-1be7-48ea-80f2-5dd24f2c84cb&referencia=&ancho=&alto="
+    },
+    {
+        "id": 4,
+        "name": "Reloj de pulsera",
+        "description": "Reloj de pulsera con diseño elegante",
+        "price": 99.99,
+        "category": "Accesorios",
+        "inStock": false,
+        "imageURL": "https://www.pngitem.com/pimgs/m/226-2263574_watch-png-image-watch-transparent-png.png"
+    },
+    {
+        "id": 5,
+        "name": "Mochila de viaje",
+        "description": "Mochila de viaje con compartimentos organizados",
+        "price": 79.99,
+        "category": "Accesorios",
+        "inStock": true,
+        "imageURL": "https://www.pngkit.com/png/full/380-3807272_backpack-png-image.png"
+    },
+    {
+        "id": 6,
+        "name": "Gorra de béisbol",
+        "description": "Gorra de béisbol con logo bordado",
+        "price": 14.99,
+        "category": "Accesorios",
+        "inStock": true,
+        "imageURL": "https://www.pngitem.com/pimgs/m/237-2375423_baseball-cap-png-transparent-png.png"
+    },
+    {
+        "id": 7,
+        "name": "Chaqueta de lana",
+        "description": "Chaqueta de lana abrigadora y elegante",
+        "price": 89.99,
+        "category": "Ropa",
+        "inStock": true,
+        "imageURL": "https://www.pngkit.com/png/full/460-4607418_wool-coat-png.png"
+    },
+    {
+        "id": 8,
+        "name": "Camisa de lino",
+        "description": "Camisa de lino fresca y ligera",
+        "price": 34.99,
+        "category": "Ropa",
+        "inStock": true,
+        "imageURL": "https://www.pngfind.com/pngs/m/646-6469347_shirt-png-image-transparent-background-shirt-png.png"
+    },
+    {
+        "id": 9,
+        "name": "Botines de cuero",
+        "description": "Botines de cuero con suela resistente",
+        "price": 79.99,
+        "category": "Calzado",
+        "inStock": true,
+        "imageURL": "https://www.pngkit.com/png/full/111-1113462_brown-leather-boots-png.png"
+    },
+    {
+        "id": 10,
+        "name": "Sandalias de verano",
+        "description": "Sandalias cómodas para el verano",
+        "price": 29.99,
+        "category": "Calzado",
+        "inStock": true,
+        "imageURL": "https://www.pngitem.com/pimgs/m/457-4573410_sandals-png-image-sandals-transparent-png.png"
+    },
+    {
+        "id": 11,
+        "name": "Cinturón de cuero",
+        "description": "Cinturón de cuero con hebilla metálica",
+        "price": 24.99,
+        "category": "Accesorios",
+        "inStock": true,
+        "imageURL": "https://www.pngitem.com/pimgs/m/225-2259698_leather-belt-png-image-belt-transparent-png.png"
+    },
+    {
+        "id": 12,
+        "name": "Bufanda de lana",
+        "description": "Bufanda de lana cálida y suave",
+        "price": 22.99,
+        "category": "Accesorios",
+        "inStock": true,
+        "imageURL": "https://www.pngkit.com/png/full/417-4178983_scarf-png-transparent-png.png"
+    },
+    {
+        "id": 13,
+        "name": "Sombrero de paja",
+        "description": "Sombrero de paja ideal para el verano",
+        "price": 18.99,
+        "category": "Accesorios",
+        "inStock": true,
+        "imageURL": "https://www.pngitem.com/pimgs/m/219-2192386_wide-brim-hat-png-transparent-png.png"
+    },
+    {
+        "id": 14,
+        "name": "Guantes de cuero",
+        "description": "Guantes de cuero para el frío",
+        "price": 34.99,
+        "category": "Accesorios",
+        "inStock": true,
+        "imageURL": "https://www.pngkit.com/png/full/223-2237104_black-leather-gloves-png.png"
+    },
+    {
+        "id": 15,
+        "name": "Polo de manga corta",
+        "description": "Polo de manga corta con botones",
+        "price": 25.99,
+        "category": "Ropa",
+        "inStock": true,
+        "imageURL": "https://www.pngkit.com/png/full/355-3558216_t-shirt-png-image.png"
+    },
+    {
+        "id": 16,
+        "name": "Chaqueta impermeable",
+        "description": "Chaqueta impermeable para días lluviosos",
+        "price": 54.99,
+        "category": "Ropa",
+        "inStock": true,
+        "imageURL": "https://www.pngkit.com/png/full/147-1472441_raincoat-png-image.png"
+    },
+    {
+        "id": 17,
+        "name": "Leggings deportivos",
+        "description": "Leggings deportivos elásticos y cómodos",
+        "price": 34.99,
+        "category": "Ropa",
+        "inStock": true,
+        "imageURL": "https://www.pngitem.com/pimgs/m/118-1186104_pants-png-image-sportswear-transparent-png.png"
+    },
+    {
+        "id": 18,
+        "name": "Camiseta de manga larga",
+        "description": "Camiseta de manga larga de algodón",
+        "price": 22.99,
+        "category": "Ropa",
+        "inStock": true,
+        "imageURL": "https://www.pngkit.com/png/full/96-964177_long-sleeve-t-shirt-png-image.png"
+    },
+    {
+        "id": 19,
+        "name": "Sandalias de cuero",
+        "description": "Sandalias de cuero con diseño clásico",
+        "price": 39.99,
+        "category": "Calzado",
+        "inStock": true,
+        "imageURL": "https://www.pngitem.com/pimgs/m/66-661274_sandal-png-transparent-png.png"
+    },
+    {
+        "id": 20,
+        "name": "Zapatillas casuales",
+        "description": "Zapatillas casuales para uso diario",
+        "price": 49.99,
+        "category": "Calzado",
+        "inStock": true,
+        "imageURL": "https://images.ecestaticos.com/ukPX58wpjwDgUPuVRNkx0R7kPC8=/0x0:640x361/1440x810/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffea%2F671%2F2a2%2Ffea6712a2021e169c9b84917de6a98b6.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Bolso de mano",
+        "description": "Bolso de mano de cuero elegante",
+        "price": 89.99,
+        "category": "Accesorios",
+        "inStock": true,
+        "imageURL": "https://mariohernandez.vtexassets.com/arquivos/ids/231445/bolso-de-mano-andrea-pequeno-negro-navarra_1.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Cartera de cuero",
+        "description": "Cartera de cuero con múltiples compartimentos",
+        "price": 39.99,
+        "category": "Accesorios",
+        "inStock": true,
+        "imageURL": "https://www.pngkit.com/png/full/257-2579894_wallet-png-transparent-wallet-png.png"
+    },
+    {
+        "id": 23,
+        "name": "Cinturón deportivo",
+        "description": "Cinturón deportivo ajustable y resistente",
+        "price": 19.99,
+        "category": "Accesorios",
+        "inStock": true,
+        "imageURL": "https://www.pngkit.com/png/full/10-105695_belt-png-image.png"
+    },
+    {
+        "id": 24,
+        "name": "Sombrero de invierno",
+        "description": "Sombrero de lana para el invierno",
+        "price": 27.99,
+        "category": "Accesorios",
+        "inStock": true,
+        "imageURL": "https://www.pngitem.com/pimgs/m/118-1185860_knitted-winter-hat-png.png"
+    },
+    {
+        "id": 25,
+        "name": "Chaqueta de mezclilla",
+        "description": "Chaqueta de mezclilla clásica",
+        "price": 59.99,
+        "category": "Ropa",
+        "inStock": true,
+        "imageURL": "https://www.paris.cl/dw/image/v2/BCHW_PRD/on/demandware.static/-/Sites-paris-marketplace/default/dwe4b74681/images/imagenes-productos/800/MKTC/MKTCZV5GCX-0401-001.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Suéter de punto",
+        "description": "Suéter de punto cálido y cómodo",
+        "price": 45.99,
+        "category": "Ropa",
+        "inStock": true,
+        "imageURL": "https://www.pngkit.com/png/full/149-1493397_knitted-sweater-png-image.png"
+    },
+    {
+        "id": 27,
+        "name": "Pantalones cortos",
+        "description": "Pantalones cortos de verano",
+        "price": 29.99,
+        "category": "Ropa",
+        "inStock": true,
+        "imageURL": "https://www.pngkit.com/png/full/355-3557575_shorts-png.png"
+    },
+    {
+        "id": 28,
+        "name": "Botines de ante",
+        "description": "Botines de ante con estilo moderno",
+        "price": 89.99,
+        "category": "Calzado",
+        "inStock": true,
+        "imageURL": "https://ilcalzolaiosegreto.com/cdn/shop/files/IMG_8655.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Zapatillas de running",
+        "description": "Zapatillas de running con soporte adicional",
+        "price": 69.99,
+        "category": "Calzado",
+        "inStock": true,
+        "imageURL": "https://kelme.com/11553-large_default/beat.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Gafas de sol",
+        "description": "Gafas de sol con protección UV",
+        "price": 49.99,
+        "category": "Accesorios",
+        "inStock": true,
+        "imageURL": "https://www.pngitem.com/pimgs/m/109-1093866_sunglasses-png-transparent-png.png"
+    }
+]
