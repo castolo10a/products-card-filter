@@ -1,0 +1,45 @@
+import { FC } from "react";
+import { Button, Badge } from "../../ui";
+import { ProductCardProps } from "./productCard.types";
+
+export const ProductCard: FC<ProductCardProps> = ({ product, onAddToCart }) => {
+  return (
+    <li className="relative group border border-solid rounded-lg p-4">
+      <img
+        src={product.imageURL}
+        alt={product.name}
+        width={400}
+        height={300}
+        className="rounded-lg object-contain w-full aspect-[4/3] group-hover:opacity-50 transition-opacity"
+      />
+      <div className="flex-1 py-4">
+        <h3 className="font-semibold tracking-tight">{product.name}</h3>
+        <small className="text-sm leading-none text-muted-foreground">
+          {product.description}
+        </small>
+        <div className="flex items-center justify-between">
+          <h4 className="font-semibold">${product.price.toFixed(2)}</h4>
+          {product.inStock ? (
+            <Badge className="bg-green-500 text-white py-1 px-2 rounded-full">
+              En stock
+            </Badge>
+          ) : (
+            <Badge className="bg-red-500 text-white py-1 px-2 rounded-full">
+              Fuera de stock
+            </Badge>
+          )}
+        </div>
+      </div>
+      <div className="mt-4">
+        <Button
+          onClick={() => onAddToCart(product)}
+          disabled={!product.inStock}
+          className="text-white"
+          variant="solid"
+        >
+          Agregar al carrito
+        </Button>
+      </div>
+    </li>
+  );
+};
