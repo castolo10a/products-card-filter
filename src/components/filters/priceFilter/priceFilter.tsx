@@ -1,4 +1,4 @@
-import { FC, useState } from "react";
+import { FC, useMemo, useState } from "react";
 import { Button } from "../../ui";
 import { PriceFilterProps } from "./priceFilter.types";
 
@@ -12,22 +12,23 @@ export const PriceFilter: FC<PriceFilterProps> = ({
   const [minPrice, setMinPrice] = useState(priceRange[0]);
   const [maxPrice, setMaxPrice] = useState(priceRange[1]);
 
+  const isButtonDisabled = useMemo(() => {
+    return minPrice > maxPrice || minPrice < minRange || maxPrice > maxRange;
+  }, [minPrice, maxPrice, minRange, maxRange]);
+
   const handleMinPriceChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const value = Number(e.target.value);
-    if (value <= maxPrice) {
-      setMinPrice(value);
-    }
+    setMinPrice(value);
   };
 
   const handleMaxPriceChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const value = Number(e.target.value);
-    if (value >= minPrice) {
-      setMaxPrice(value);
-    }
+
+    setMaxPrice(value);
   };
 
   const handleApply = () => {
-    onFilterChange([minPrice, maxPrice]);
+    if (!isButtonDisabled) onFilterChange([minPrice, maxPrice]);
   };
 
   return (
@@ -57,6 +58,7 @@ export const PriceFilter: FC<PriceFilterProps> = ({
       <Button
         onClick={handleApply}
         className="mt-4 text-white hover:bg-zinc-600 p-2 rounded"
+        isDisabled={isButtonDisabled}
       >
         Aplicar
       </Button>
