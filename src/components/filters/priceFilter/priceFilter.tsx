@@ -56,7 +56,7 @@ export const PriceFilter: FC<PriceFilterProps> = ({
       </div>
       <Button
         onClick={handleApply}
-        className="mt-4 text-white hover:bg-blue-600 p-2 rounded"
+        className="mt-4 text-white hover:bg-zinc-600 p-2 rounded"
       >
         Aplicar
       </Button>
