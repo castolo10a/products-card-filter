@@ -42,7 +42,7 @@ Sigue estos pasos para clonar el repositorio y ejecutar el proyecto en tu máqui
     ```bash
     npm start
     ```
-    Esto abrirá la aplicación en tu navegador en http://localhost:3000. La página se recargará automáticamente si realizas cambios en el código. También verás cualquier error de linting en la consola.
+    Esto abrirá la aplicación en tu navegador en http://localhost:3000. La página se recargará automáticamente si realizas cambios en el código.
 
 ## Más Información
 
