@@ -24,7 +24,7 @@ export const ProductCard: FC<ProductCardProps> = ({ product, onAddToCart }) => {
       <div className="mt-4">
         <Button
           onClick={() => onAddToCart(product)}
-          disabled={!product.inStock}
+          isDisabled={!product.inStock}
           className="text-white"
           variant="solid"
         >
