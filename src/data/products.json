@@ -33,7 +33,7 @@
         "price": 99.99,
         "category": "Accesorios",
         "inStock": false,
-        "imageURL": "https://www.pngitem.com/pimgs/m/226-2263574_watch-png-image-watch-transparent-png.png"
+        "imageURL": "https://dhb3yazwboecu.cloudfront.net/1168/33D050800A_Wristwatch_dark_brown_leather-wristband_l.jpg"
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
         "price": 79.99,
         "category": "Accesorios",
         "inStock": true,
-        "imageURL": "https://www.pngkit.com/png/full/380-3807272_backpack-png-image.png"
+        "imageURL": "https://http2.mlstatic.com/D_NQ_NP_862671-CBT53852413752_022023-O.webp"
     },
     {
         "id": 6,
@@ -51,7 +51,7 @@
         "price": 14.99,
         "category": "Accesorios",
         "inStock": true,
-        "imageURL": "https://www.pngitem.com/pimgs/m/237-2375423_baseball-cap-png-transparent-png.png"
+        "imageURL": "https://www.foxcol.com/cdn/shop/files/gorra-de-beisbol-new-era-59-fifty-los-angeles-dodgers-100percent-original-foxcol-colombia-1.jpg?v=1698208253"
     },
     {
         "id": 7,
@@ -60,7 +60,7 @@
         "price": 89.99,
         "category": "Ropa",
         "inStock": true,
-        "imageURL": "https://www.pngkit.com/png/full/460-4607418_wool-coat-png.png"
+        "imageURL": "https://http2.mlstatic.com/D_NQ_NP_636688-CBT52622078207_112022-O.webp"
     },
     {
         "id": 8,
@@ -69,7 +69,7 @@
         "price": 34.99,
         "category": "Ropa",
         "inStock": true,
-        "imageURL": "https://www.pngfind.com/pngs/m/646-6469347_shirt-png-image-transparent-background-shirt-png.png"
+        "imageURL": "https://media.revistagq.com/photos/6099151446471da0248861b8/master/w_1600%2Cc_limit/mr-mood-camisa-lino.jpg"
     },
     {
         "id": 9,
@@ -78,7 +78,7 @@
         "price": 79.99,
         "category": "Calzado",
         "inStock": false,
-        "imageURL": "https://www.pngkit.com/png/full/111-1113462_brown-leather-boots-png.png"
+        "imageURL": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/falabellaCO/129478805_01/w=800,h=800,fit=pad"
     },
     {
         "id": 10,
@@ -87,7 +87,7 @@
         "price": 29.99,
         "category": "Calzado",
         "inStock": true,
-        "imageURL": "https://www.pngitem.com/pimgs/m/457-4573410_sandals-png-image-sandals-transparent-png.png"
+        "imageURL": "https://tommycolombia.vteximg.com.br/arquivos/ids/516035-500-667/label-0.jpg?v=638491878403870000"
     },
     {
         "id": 11,
@@ -96,7 +96,7 @@
         "price": 24.99,
         "category": "Accesorios",
         "inStock": true,
-        "imageURL": "https://www.pngitem.com/pimgs/m/225-2259698_leather-belt-png-image-belt-transparent-png.png"
+        "imageURL": "https://marcallanera.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ4NTgsInB1ciI6ImJsb2JfaWQifX0=--6e88773562ad7e5215debc88e79a424d4105a8ea/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbODAwLDgwMF19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--1420d7fd3d20057726f0ef3c0043db24ca0403be/cinturon-en-cuero.jpg?locale=es"
     },
     {
         "id": 12,
@@ -105,7 +105,7 @@
         "price": 22.99,
         "category": "Accesorios",
         "inStock": true,
-        "imageURL": "https://www.pngkit.com/png/full/417-4178983_scarf-png-transparent-png.png"
+        "imageURL": "https://www.shutterstock.com/image-photo/blue-warm-scarf-on-white-600nw-2303667055.jpg"
     },
     {
         "id": 13,
@@ -114,7 +114,7 @@
         "price": 18.99,
         "category": "Accesorios",
         "inStock": false,
-        "imageURL": "https://www.pngitem.com/pimgs/m/219-2192386_wide-brim-hat-png-transparent-png.png"
+        "imageURL": "https://acdn.mitiendanube.com/stores/860/750/products/sombrero-fasth1-7249ad125c7c43844d16801104982855-640-0.png"
     },
     {
         "id": 14,
@@ -123,7 +123,7 @@
         "price": 34.99,
         "category": "Accesorios",
         "inStock": true,
-        "imageURL": "https://www.pngkit.com/png/full/223-2237104_black-leather-gloves-png.png"
+        "imageURL": "https://www.mafepe.com/727-large_default/guantes-de-cuero-uro-15negre.jpg"
     },
     {
         "id": 15,
@@ -132,7 +132,7 @@
         "price": 25.99,
         "category": "Ropa",
         "inStock": true,
-        "imageURL": "https://www.pngkit.com/png/full/355-3558216_t-shirt-png-image.png"
+        "imageURL": "https://img.ws.mms.shopee.com.co/2b34fa3f621b0d6d7b77ca0f23937f47"
     },
     {
         "id": 16,
@@ -141,7 +141,7 @@
         "price": 54.99,
         "category": "Ropa",
         "inStock": true,
-        "imageURL": "https://www.pngkit.com/png/full/147-1472441_raincoat-png-image.png"
+        "imageURL": "https://www.izack.com.co/cdn/shop/products/DSC01725_1200x1200.jpg?v=1663185403"
     },
     {
         "id": 17,
@@ -150,7 +150,7 @@
         "price": 34.99,
         "category": "Ropa",
         "inStock": true,
-        "imageURL": "https://www.pngitem.com/pimgs/m/118-1186104_pants-png-image-sportswear-transparent-png.png"
+        "imageURL": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/falabellaCO/129859372_01/w=800,h=800,fit=pad"
     },
     {
         "id": 18,
@@ -159,7 +159,7 @@
         "price": 22.99,
         "category": "Ropa",
         "inStock": true,
-        "imageURL": "https://www.pngkit.com/png/full/96-964177_long-sleeve-t-shirt-png-image.png"
+        "imageURL": "https://cartagena.travelers.wiki/wp-content/uploads/2021/10/mangalarga.jpg"
     },
     {
         "id": 19,
@@ -168,7 +168,7 @@
         "price": 39.99,
         "category": "Calzado",
         "inStock": true,
-        "imageURL": "https://www.pngitem.com/pimgs/m/66-661274_sandal-png-transparent-png.png"
+        "imageURL": "https://i.ebayimg.com/thumbs/images/g/RUEAAOSwO7VlfrDF/s-l1200.jpg"
     },
     {
         "id": 20,
@@ -195,7 +195,7 @@
         "price": 39.99,
         "category": "Accesorios",
         "inStock": true,
-        "imageURL": "https://www.pngkit.com/png/full/257-2579894_wallet-png-transparent-wallet-png.png"
+        "imageURL": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/falabellaCO/126866334_01/w=800,h=800,fit=pad"
     },
     {
         "id": 23,
@@ -204,7 +204,7 @@
         "price": 19.99,
         "category": "Accesorios",
         "inStock": true,
-        "imageURL": "https://www.pngkit.com/png/full/10-105695_belt-png-image.png"
+        "imageURL": "https://m.media-amazon.com/images/I/61r1mfcaSYL._AC_UY580_.jpg"
     },
     {
         "id": 24,
@@ -213,7 +213,7 @@
         "price": 27.99,
         "category": "Accesorios",
         "inStock": true,
-        "imageURL": "https://www.pngitem.com/pimgs/m/118-1185860_knitted-winter-hat-png.png"
+        "imageURL": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/falabellaCO/124408952_01/w=800,h=800,fit=pad"
     },
     {
         "id": 25,
@@ -231,7 +231,7 @@
         "price": 45.99,
         "category": "Ropa",
         "inStock": true,
-        "imageURL": "https://www.pngkit.com/png/full/149-1493397_knitted-sweater-png-image.png"
+        "imageURL": "https://m.media-amazon.com/images/I/81QLqgS9q5L._AC_SL1500_.jpg"
     },
     {
         "id": 27,
@@ -240,7 +240,7 @@
         "price": 29.99,
         "category": "Ropa",
         "inStock": true,
-        "imageURL": "https://www.pngkit.com/png/full/355-3557575_shorts-png.png"
+        "imageURL": "https://media.istockphoto.com/id/1237985231/es/foto/pantalones-cortos.jpg?s=612x612&w=0&k=20&c=ou0xNM0t0zLq43vbZf-rWaXfr7K8YEO3fki6lhMDEpY="
     },
     {
         "id": 28,
@@ -267,6 +267,6 @@
         "price": 49.99,
         "category": "Accesorios",
         "inStock": true,
-        "imageURL": "https://www.pngitem.com/pimgs/m/109-1093866_sunglasses-png-transparent-png.png"
+        "imageURL": "https://www.lafam.com.co/cdn/shop/files/8719154833700_00006_front_1400x930.jpg?v=1698880262"
     }
 ]
