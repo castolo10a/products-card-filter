@@ -1,46 +1,52 @@
-# Getting Started with Create React App
+# Proyecto de Lista de Productos
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto es una **Single Page Application (SPA)** creada con **React**. La aplicación renderiza una lista de productos en formato de tarjetas (cards), que se obtienen desde un archivo JSON creado específicamente para este propósito. Los usuarios pueden filtrar los productos por categoría, disponibilidad en stock y rango de precios. Además, pueden ordenar los productos alfabéticamente (A-Z o Z-A) o por precio (menor-mayor o mayor-menor). La aplicación también incluye paginación, mostrando hasta 9 productos por página, adaptándose según los filtros aplicados por el usuario.
 
-## Available Scripts
+## Tecnologías Utilizadas
 
-In the project directory, you can run:
+- **React**: Biblioteca para construir la interfaz de usuario.
+- **Create React App --template typescript**: Herramienta para inicializar y configurar el proyecto con typescript.
+- **TailwindCSS**: Estilos y diseño de la aplicación.
+- **JSON**: Fuente de datos para los productos.
 
-### `npm start`
+## Cómo Ejecutar el Proyecto Localmente
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Sigue estos pasos para clonar el repositorio y ejecutar el proyecto en tu máquina local:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+1. **Clona el repositorio**
 
-### `npm test`
+   Abre una terminal y ejecuta el siguiente comando:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+   ```bash
+   git clone https://github.com/castolo10a/products-card-filter
+   ```
+2. **Navega al directorio del proyecto**
 
-### `npm run build`
+   Abre una terminal y ejecuta el siguiente comando:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+   ```bash
+   cd tu-repositorio
+   ```
+   Reemplaza tu-repositorio con el nombre del directorio creado.
+3. **Instala las dependencias**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    Ejecuta el siguiente comando para instalar todas las dependencias del proyecto:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    ```bash
+   npm install
+   ```
+3. **Instala las dependencias**
 
-### `npm run eject`
+    Ejecuta el siguiente comando para iniciar la aplicación en modo de desarrollo:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+    ```bash
+    npm start
+    ```
+    Esto abrirá la aplicación en tu navegador en http://localhost:3000. La página se recargará automáticamente si realizas cambios en el código. También verás cualquier error de linting en la consola.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Más Información
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- Para aprender más sobre **Create React App**, consulta [la documentación de Create React App](https://create-react-app.dev/).
+- Para aprender más sobre **React**, consulta [la documentación de React](https://reactjs.org/).
+- Para aprender más sobre **TypeScript**, consulta [la documentación de TypeScript](https://www.typescriptlang.org/).
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
