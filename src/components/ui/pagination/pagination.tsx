@@ -5,14 +5,8 @@ import { PaginationProps } from "./pagination.types";
 export const Pagination: FC<PaginationProps> = ({
   currentPage,
   totalPages,
-  onPageChange,
+  handlePageChange,
 }) => {
-  const handlePageChange = (page: number) => {
-    if (page > 0 && page <= totalPages) {
-      onPageChange(page);
-    }
-  };
-
   return (
     <div className="flex justify-center gap-2">
       <Button
