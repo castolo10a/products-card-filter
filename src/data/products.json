@@ -77,7 +77,7 @@
         "description": "Botines de cuero con suela resistente",
         "price": 79.99,
         "category": "Calzado",
-        "inStock": true,
+        "inStock": false,
         "imageURL": "https://www.pngkit.com/png/full/111-1113462_brown-leather-boots-png.png"
     },
     {
@@ -113,7 +113,7 @@
         "description": "Sombrero de paja ideal para el verano",
         "price": 18.99,
         "category": "Accesorios",
-        "inStock": true,
+        "inStock": false,
         "imageURL": "https://www.pngitem.com/pimgs/m/219-2192386_wide-brim-hat-png-transparent-png.png"
     },
     {
