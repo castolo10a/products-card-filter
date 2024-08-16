@@ -1,5 +1,5 @@
 import { FC } from "react";
-import { Button, Badge } from "../../ui";
+import { Button } from "../../ui";
 import { ProductCardProps } from "./productCard.types";
 
 export const ProductCard: FC<ProductCardProps> = ({ product, onAddToCart }) => {
@@ -19,15 +19,6 @@ export const ProductCard: FC<ProductCardProps> = ({ product, onAddToCart }) => {
         </small>
         <div className="flex items-center justify-between">
           <h4 className="font-semibold">${product.price.toFixed(2)}</h4>
-          {product.inStock ? (
-            <Badge className="bg-green-500 text-white py-1 px-2 rounded-full">
-              En stock
-            </Badge>
-          ) : (
-            <Badge className="bg-red-500 text-white py-1 px-2 rounded-full">
-              Fuera de stock
-            </Badge>
-          )}
         </div>
       </div>
       <div className="mt-4">
