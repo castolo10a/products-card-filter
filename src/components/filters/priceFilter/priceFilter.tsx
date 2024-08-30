@@ -7,7 +7,7 @@ export const PriceFilter: FC<PriceFilterProps> = ({
   onFilterChange,
 }) => {
   const minRange = 0;
-  const maxRange = 1000;
+  const maxRange = 100;
 
   const [minPrice, setMinPrice] = useState(priceRange[0]);
   const [maxPrice, setMaxPrice] = useState(priceRange[1]);

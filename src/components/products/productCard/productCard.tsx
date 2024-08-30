@@ -3,6 +3,11 @@ import { Button } from "../../ui";
 import { ProductCardProps } from "./productCard.types";
 
 export const ProductCard: FC<ProductCardProps> = ({ product, onAddToCart }) => {
+  const handleAddToCart = () => {
+    if (product.inStock) {
+      onAddToCart(product);
+    }
+  };
   return (
     <li className="relative group border border-solid rounded-lg p-4">
       <img
@@ -23,7 +28,7 @@ export const ProductCard: FC<ProductCardProps> = ({ product, onAddToCart }) => {
       </div>
       <div className="mt-4">
         <Button
-          onClick={() => onAddToCart(product)}
+          onClick={handleAddToCart}
           isDisabled={!product.inStock}
           className="text-white"
           variant="solid"
