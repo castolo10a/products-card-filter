@@ -44,6 +44,12 @@ Sigue estos pasos para clonar el repositorio y ejecutar el proyecto en tu máqui
     ```
     Esto abrirá la aplicación en tu navegador en http://localhost:3000. La página se recargará automáticamente si realizas cambios en el código.
 
+## Visita la Demo del Proyecto
+
+El proyecto está en línea y disponible en la siguiente URL:
+
+[Ver el proyecto desplegado](https://listproductsfilters.netlify.app/)
+
 ## Más Información
 
 - Para aprender más sobre **Create React App**, consulta [la documentación de Create React App](https://create-react-app.dev/).
